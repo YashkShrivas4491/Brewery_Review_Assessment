@@ -1,0 +1,51 @@
+/* Review.css */
+
+.not-found-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.brewery-name {
+  color: #007bff;
+}
+
+.review-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #f7f7f7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+
+  &:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
+
+.review-card h5 {
+  color: #343a40;
+  margin-bottom: 10px;
+}
+
+.review-card p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.review-card a {
+  color: #007bff;
+}
+
+.review-card a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  .review-card {
+    padding: 10px;
+  }
+}
