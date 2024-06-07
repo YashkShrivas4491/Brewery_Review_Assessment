@@ -48,7 +48,7 @@ const ReviewPage = () => {
   const fetchReviews = async (reviewId) => {
     try {
       const response = await axios.get(
-        `http://localhost:3100/reviews?breweryId=${reviewId}`
+        `https://brewery-backend-dma4.onrender.com/reviews?breweryId=${reviewId}`
       );
       console.log("Reviews fetched successfully:", response.data.length);
       setReviews(response.data);
@@ -87,7 +87,10 @@ const ReviewPage = () => {
       };
 
       // Post the review using the provided API with query parameters
-      await axios.post(`http://localhost:3100/reviews`, review);
+      await axios.post(
+        `https://brewery-backend-dma4.onrender.com/reviews`,
+        review
+      );
 
       toast("Review submitted successfully", {
         type: "success",
