@@ -1,4 +1,4 @@
-![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/85a5643e-d5c9-403f-9b3b-15077955c0bb)
+![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/8a4a6d04-046f-4c2b-a80f-571184f99bc3)![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/85a5643e-d5c9-403f-9b3b-15077955c0bb)
 
 # Brewery Review System 🚀
 
@@ -25,7 +25,7 @@ This project is a web application that allows users to search for breweries by c
 ## ScreenShot ⚡
 
 ![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/f29bf250-bf38-4b44-9307-0e170ac5f2d2)
-![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/743e24b8-c28d-4ffc-b6be-4bd24398e7c4)
+![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/92a2897f-d04e-4d20-a029-bb78375caf11)
 ![Data-Cloud-MongoDB-Cloud](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/a1b9aca8-e39d-4d02-ab3e-435829bc46fc)
 ![image](https://github.com/YashkShrivas4491/Brewery_Review_Assessment/assets/87111197/40de6c42-1050-44c6-88c2-f851090df04f)
 
